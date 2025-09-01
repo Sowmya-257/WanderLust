@@ -32,7 +32,7 @@ npm install
 Start the server with one of the following commands:
 
 nodemon app.js
-# OR
+OR
 node app.js
 
 
